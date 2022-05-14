@@ -1,0 +1,14 @@
+/////////////create virtualenv
+
+python -m virtualenv venv
+
+////////////cd new folder/Scripts
+
+cd venv/Scripts
+
+////////////aktivasi (using git bash here)
+
+. activate
+
+///////////\\\\\\\\\\\ masukkan script anda ke dalam folder Scripts
+================> running ==> python <nama_script>
